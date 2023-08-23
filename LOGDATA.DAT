@@ -1,0 +1,2661 @@
+//LOGDATA
+///INDEX 1
+DATE              :2023/08/22 17:54:01
+EVENT             :PARAMETER EDIT
+LOGIN NAME        :
+PARAMETER KIND    :RS
+PARAMETER NUMBER  :59
+BEFORE EDIT       :1
+AFTER EDIT        :3
+
+///INDEX 2
+DATE              :2023/08/22 17:54:00
+EVENT             :PARAMETER EDIT
+LOGIN NAME        :
+PARAMETER KIND    :RS
+PARAMETER NUMBER  :59
+BEFORE EDIT       :0
+AFTER EDIT        :1
+
+///INDEX 3
+DATE              :2023/08/22 17:53:21
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :29
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 4
+DATE              :2023/08/22 17:53:20
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :28
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 5
+DATE              :2023/08/22 17:53:19
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :27
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 6
+DATE              :2023/08/22 17:53:18
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :26
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 7
+DATE              :2023/08/22 17:53:17
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :25
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 8
+DATE              :2023/08/22 17:53:16
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :24
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 9
+DATE              :2023/08/22 17:53:15
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :23
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 10
+DATE              :2023/08/22 17:53:11
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :22
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 11
+DATE              :2023/08/22 17:53:10
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :21
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 12
+DATE              :2023/08/22 17:53:09
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :20
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 13
+DATE              :2023/08/22 17:53:06
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :19
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 14
+DATE              :2023/08/22 17:53:05
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :18
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 15
+DATE              :2023/08/22 17:53:04
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :17
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 16
+DATE              :2023/08/22 17:53:03
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :16
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 17
+DATE              :2023/08/22 17:53:03
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :15
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 18
+DATE              :2023/08/22 17:53:01
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :14
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 19
+DATE              :2023/08/22 17:53:01
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :13
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 20
+DATE              :2023/08/22 17:52:59
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :12
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 21
+DATE              :2023/08/22 17:52:58
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :11
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 22
+DATE              :2023/08/22 17:52:57
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :10
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 23
+DATE              :2023/08/22 17:52:54
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :9
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 24
+DATE              :2023/08/22 17:52:53
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :8
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 25
+DATE              :2023/08/22 17:52:52
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :7
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 26
+DATE              :2023/08/22 17:52:51
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :6
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 27
+DATE              :2023/08/22 17:52:50
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :5
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 28
+DATE              :2023/08/22 17:52:49
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :4
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 29
+DATE              :2023/08/22 17:52:48
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :3
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 30
+DATE              :2023/08/22 17:52:47
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :2
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 31
+DATE              :2023/08/22 17:52:45
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :1
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 32
+DATE              :2023/08/22 17:52:42
+EVENT             :VARIABLE EDIT
+LOGIN NAME        :
+VARIABLE KIND     :P VAR             
+VARIABLE NUMBER   :0
+SET VALUE          ****************  --> PULSE            
+                   00                --> 00               
+                   R1 :S           * --> R1 :S           0
+                       L           * -->     L           0
+                       U           * -->     U           0
+                       R           * -->     R           0
+                       B           * -->     B           0
+                       T           * -->     T           0
+
+///INDEX 33
+DATE              :2023/08/22 17:51:38
+EVENT             :CHANGE SECURITY MODE
+LOGIN NAME        :
+BEFORE MODE       :EDITING MODE
+AFTER MODE        :SAFETY MODE
+
+///INDEX 34
+DATE              :2023/08/22 16:15:44
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0024
+AFTER EDIT        : SET B002 1 
+CURR VALUE
+
+///INDEX 35
+DATE              :2023/08/22 16:15:23
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0023
+AFTER EDIT        : SET B003 0 
+CURR VALUE
+
+///INDEX 36
+DATE              :2023/08/22 16:15:07
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0021
+AFTER EDIT        : JUMP *LOOP 
+CURR VALUE
+
+///INDEX 37
+DATE              :2023/08/22 16:14:52
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0020
+AFTER EDIT        : IF( I001>=1 ) THEN 
+CURR VALUE
+
+///INDEX 38
+DATE              :2023/08/22 16:14:19
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0019
+AFTER EDIT        : MOVJ P027 
+CURR VALUE
+
+///INDEX 39
+DATE              :2023/08/22 16:13:58
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0018
+AFTER EDIT        : WAIT IN#(4)=OFF 
+CURR VALUE
+
+///INDEX 40
+DATE              :2023/08/22 16:13:31
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0017
+AFTER EDIT        : MOVL P028 PL=0 
+CURR VALUE
+
+///INDEX 41
+DATE              :2023/08/22 16:13:27
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+START LINE        :0017
+END LINE          :0017
+
+///INDEX 42
+DATE              :2023/08/22 16:13:16
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0016
+AFTER EDIT        : TSYNC 3 
+CURR VALUE
+
+///INDEX 43
+DATE              :2023/08/22 16:11:58
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0015
+AFTER EDIT        : DOUT OT#(4) OFF 
+CURR VALUE
+
+///INDEX 44
+DATE              :2023/08/22 16:11:46
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0014
+AFTER EDIT        : WAIT OT#(1)=ON 
+CURR VALUE
+
+///INDEX 45
+DATE              :2023/08/22 16:11:27
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0014
+AFTER EDIT        : WAIT IN#(1)=ON 
+CURR VALUE
+
+///INDEX 46
+DATE              :2023/08/22 16:11:05
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0013
+AFTER EDIT        : MOVL P029 PL=0 
+CURR VALUE
+
+///INDEX 47
+DATE              :2023/08/22 16:10:54
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0012
+AFTER EDIT        : TSYNC 2 
+CURR VALUE
+
+///INDEX 48
+DATE              :2023/08/22 16:08:55
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0011
+AFTER EDIT        : MOVJ P028 PL=0 
+CURR VALUE
+
+///INDEX 49
+DATE              :2023/08/22 16:08:43
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0010
+AFTER EDIT        : TSYNC 1 
+CURR VALUE
+
+///INDEX 50
+DATE              :2023/08/22 16:08:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0009
+AFTER EDIT        : DEC I001 
+CURR VALUE
+
+///INDEX 51
+DATE              :2023/08/22 16:08:03
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0008
+AFTER EDIT        : SUB P021 P019 
+CURR VALUE
+
+///INDEX 52
+DATE              :2023/08/22 16:07:39
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0007
+AFTER EDIT        : WAIT IN#(4)=ON 
+CURR VALUE
+
+///INDEX 53
+DATE              :2023/08/22 16:07:11
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+START LINE        :0006
+END LINE          :0006
+
+///INDEX 54
+DATE              :2023/08/22 16:06:55
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0005
+AFTER EDIT        : DOUT OT#(4) ON 
+CURR VALUE
+
+///INDEX 55
+DATE              :2023/08/22 16:06:36
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0004
+AFTER EDIT        : MOVL P021 PL=0 
+CURR VALUE
+
+///INDEX 56
+DATE              :2023/08/22 16:05:57
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0003
+AFTER EDIT        : MOVJ P017 PL=0 
+CURR VALUE
+
+///INDEX 57
+DATE              :2023/08/22 16:05:46
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0003
+AFTER EDIT        : MOVJ P017 
+CURR VALUE
+
+///INDEX 58
+DATE              :2023/08/22 16:05:43
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+START LINE        :0003
+END LINE          :0003
+
+///INDEX 59
+DATE              :2023/08/22 16:05:26
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0002
+AFTER EDIT        :*LOOP 
+CURR VALUE
+
+///INDEX 60
+DATE              :2023/08/22 16:05:10
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+LINE              :0001
+AFTER EDIT        : MOVJ P027 
+CURR VALUE
+
+///INDEX 61
+DATE              :2023/08/22 16:05:08
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_RESET
+START LINE        :0001
+END LINE          :0001
+
+///INDEX 62
+DATE              :2023/08/22 16:04:40
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_RESET
+
+///INDEX 63
+DATE              :2023/08/22 16:04:18
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+START LINE        :0009
+END LINE          :0009
+
+///INDEX 64
+DATE              :2023/08/22 16:04:01
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0008
+AFTER EDIT        : INC I001 
+CURR VALUE
+
+///INDEX 65
+DATE              :2023/08/22 16:03:42
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0007
+AFTER EDIT        : WAIT IN#(4)=OFF 
+CURR VALUE
+
+///INDEX 66
+DATE              :2023/08/22 16:03:22
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+START LINE        :0006
+END LINE          :0006
+
+///INDEX 67
+DATE              :2023/08/22 16:03:09
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0005
+AFTER EDIT        : DOUT OT#(4) OFF 
+CURR VALUE
+
+///INDEX 68
+DATE              :2023/08/22 16:02:41
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0004
+AFTER EDIT        : MOVL P021 PL=0 
+CURR VALUE
+
+///INDEX 69
+DATE              :2023/08/22 16:02:12
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0003
+AFTER EDIT        : MOVJ P017 PL=0 
+CURR VALUE
+
+///INDEX 70
+DATE              :2023/08/22 16:01:46
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0002
+AFTER EDIT        : ADD P021 P019 
+CURR VALUE
+
+///INDEX 71
+DATE              :2023/08/22 16:01:36
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0002
+AFTER EDIT        : ADD P021 P016 
+CURR VALUE
+
+///INDEX 72
+DATE              :2023/08/22 16:00:30
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+LINE              :0001
+AFTER EDIT        : MOVJ P016 
+CURR VALUE
+
+///INDEX 73
+DATE              :2023/08/22 16:00:23
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_TABLE
+START LINE        :0001
+END LINE          :0001
+
+///INDEX 74
+DATE              :2023/08/22 15:59:57
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_TABLE
+
+///INDEX 75
+DATE              :2023/08/22 15:59:43
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0018
+AFTER EDIT        : MOVJ P022 
+CURR VALUE
+
+///INDEX 76
+DATE              :2023/08/22 15:59:34
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0018
+END LINE          :0018
+
+///INDEX 77
+DATE              :2023/08/22 15:59:07
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0017
+AFTER EDIT        :*NO_PLACE 
+CURR VALUE
+
+///INDEX 78
+DATE              :2023/08/22 15:58:42
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_PRESS
+
+///INDEX 79
+DATE              :2023/08/22 15:58:38
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0018
+AFTER EDIT        : MOVL P007 PL=0 
+CURR VALUE
+
+///INDEX 80
+DATE              :2023/08/22 15:58:21
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 81
+DATE              :2023/08/22 15:58:16
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0015
+AFTER EDIT        : MOVJ P022 PL=0 
+CURR VALUE
+
+///INDEX 82
+DATE              :2023/08/22 15:57:17
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0016
+END LINE          :0016
+
+///INDEX 83
+DATE              :2023/08/22 15:57:13
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_PRESS
+
+///INDEX 84
+DATE              :2023/08/22 15:57:01
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 85
+DATE              :2023/08/22 15:56:32
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0015
+END LINE          :0015
+
+///INDEX 86
+DATE              :2023/08/22 15:52:20
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 87
+DATE              :2023/08/22 15:52:20
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 88
+DATE              :2023/08/22 15:37:42
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0014
+AFTER EDIT        : WAIT OT#(3)=OFF 
+CURR VALUE
+
+///INDEX 89
+DATE              :2023/08/22 15:37:17
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0013
+END LINE          :0013
+
+///INDEX 90
+DATE              :2023/08/22 15:36:04
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0012
+AFTER EDIT        : DOUT OT#(3) OFF 
+CURR VALUE
+
+///INDEX 91
+DATE              :2023/08/22 15:34:50
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0010
+END LINE          :0011
+
+///INDEX 92
+DATE              :2023/08/22 15:34:20
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0009
+AFTER EDIT        : JUMP *NO_PLACE IF( B003=1 AND B001=0 ) 
+CURR VALUE
+
+///INDEX 93
+DATE              :2023/08/22 15:32:35
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0008
+AFTER EDIT        :*NO_PICK 
+CURR VALUE
+
+///INDEX 94
+DATE              :2023/08/22 15:31:47
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0007
+AFTER EDIT        : WAIT IN#(4)=ON 
+CURR VALUE
+
+///INDEX 95
+DATE              :2023/08/22 15:30:25
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0006
+AFTER EDIT        : MOVL P023 PL=0 
+CURR VALUE
+
+///INDEX 96
+DATE              :2023/08/22 15:30:00
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0005
+AFTER EDIT        : DOUT OT#(4) ON 
+CURR VALUE
+
+///INDEX 97
+DATE              :2023/08/22 15:29:49
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0004
+END LINE          :0004
+
+///INDEX 98
+DATE              :2023/08/22 15:26:05
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0003
+AFTER EDIT        : JUMP *NO_PICK IF B002=1 
+CURR VALUE
+
+///INDEX 99
+DATE              :2023/08/22 15:18:05
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0002
+AFTER EDIT        : MOVL P023 PL=0 
+CURR VALUE
+
+///INDEX 100
+DATE              :2023/08/22 15:17:53
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+START LINE        :0002
+END LINE          :0002
+
+///INDEX 101
+DATE              :2023/08/22 15:17:32
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_PRESS
+LINE              :0001
+AFTER EDIT        : MOVJ P022 
+CURR VALUE
+
+///INDEX 102
+DATE              :2023/08/22 15:17:08
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+START LINE        :0014
+END LINE          :0014
+
+///INDEX 103
+DATE              :2023/08/22 15:16:37
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0012
+AFTER EDIT        : SET B003 1 
+CURR VALUE
+
+///INDEX 104
+DATE              :2023/08/22 15:16:31
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0011
+AFTER EDIT        : IF( B001=1 ) THEN 
+CURR VALUE
+
+///INDEX 105
+DATE              :2023/08/22 15:16:01
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0011
+AFTER EDIT        : IF( B003=1 ) THEN 
+CURR VALUE
+
+///INDEX 106
+DATE              :2023/08/22 15:14:21
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0010
+AFTER EDIT        : WAIT IN#(3)=ON 
+CURR VALUE
+
+///INDEX 107
+DATE              :2023/08/22 15:13:58
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0009
+AFTER EDIT        : MOVL P025 PL=0 
+CURR VALUE
+
+///INDEX 108
+DATE              :2023/08/22 15:13:50
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0009
+AFTER EDIT        : MOVJ P025 PL=0 
+CURR VALUE
+
+///INDEX 109
+DATE              :2023/08/22 15:13:24
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0008
+AFTER EDIT        : TSYNC 3 
+CURR VALUE
+
+///INDEX 110
+DATE              :2023/08/22 15:13:10
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0007
+AFTER EDIT        : WAIT OT#(2)=OFF 
+CURR VALUE
+
+///INDEX 111
+DATE              :2023/08/22 15:12:29
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0006
+AFTER EDIT        : DOUT OT#(3) ON 
+CURR VALUE
+
+///INDEX 112
+DATE              :2023/08/22 15:12:02
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0005
+AFTER EDIT        : MOVL P026 PL=0 
+CURR VALUE
+
+///INDEX 113
+DATE              :2023/08/22 15:11:51
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+START LINE        :0005
+END LINE          :0005
+
+///INDEX 114
+DATE              :2023/08/22 14:58:32
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0004
+AFTER EDIT        : TSYNC 2 
+CURR VALUE
+
+///INDEX 115
+DATE              :2023/08/22 14:58:22
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0003
+AFTER EDIT        : MOVJ P025 PL=0 
+CURR VALUE
+
+///INDEX 116
+DATE              :2023/08/22 14:57:53
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0002
+AFTER EDIT        : TSYNC 1 
+CURR VALUE
+
+///INDEX 117
+DATE              :2023/08/22 14:57:34
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+LINE              :0001
+AFTER EDIT        : MOVJ P024 
+CURR VALUE
+
+///INDEX 118
+DATE              :2023/08/22 14:57:26
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_HAND-OFF
+START LINE        :0001
+END LINE          :0001
+
+///INDEX 119
+DATE              :2023/08/22 14:56:40
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0029
+AFTER EDIT        : JUMP *LOOP 
+CURR VALUE
+
+///INDEX 120
+DATE              :2023/08/22 14:56:24
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0027
+AFTER EDIT        : CALL JOB:R2_RESET 
+CURR VALUE
+
+///INDEX 121
+DATE              :2023/08/22 14:55:01
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0026
+AFTER EDIT        : IF( I001>=I003 ) THEN 
+CURR VALUE
+
+///INDEX 122
+DATE              :2023/08/22 14:54:26
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0025
+AFTER EDIT        :*NO_TABLE 
+CURR VALUE
+
+///INDEX 123
+DATE              :2023/08/22 14:54:06
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0024
+AFTER EDIT        : CALL JOB:R2_TABLE 
+CURR VALUE
+
+///INDEX 124
+DATE              :2023/08/22 14:53:54
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0022
+AFTER EDIT        : JUMP *NO_TABLE 
+CURR VALUE
+
+///INDEX 125
+DATE              :2023/08/22 14:53:28
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0021
+AFTER EDIT        : SET B002 0 
+CURR VALUE
+
+///INDEX 126
+DATE              :2023/08/22 14:46:36
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0020
+AFTER EDIT        : IF( B002=1 ) THEN 
+CURR VALUE
+
+///INDEX 127
+DATE              :2023/08/22 14:45:05
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+START LINE        :0019
+END LINE          :0019
+
+///INDEX 128
+DATE              :2023/08/22 14:43:45
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0018
+AFTER EDIT        : CALL JOB:R2_PRESS 
+CURR VALUE
+
+///INDEX 129
+DATE              :2023/08/22 14:43:14
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+START LINE        :0017
+END LINE          :0017
+
+///INDEX 130
+DATE              :2023/08/22 14:42:58
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0016
+AFTER EDIT        : CALL JOB:R2_HAND-OFF IF B003=0 
+CURR VALUE
+
+///INDEX 131
+DATE              :2023/08/22 14:42:22
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0014
+AFTER EDIT        : SET B001 0 
+CURR VALUE
+
+///INDEX 132
+DATE              :2023/08/22 14:42:06
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0013
+AFTER EDIT        : IF( B001=1 AND B003=1 ) THEN 
+CURR VALUE
+
+///INDEX 133
+DATE              :2023/08/22 14:41:09
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0012
+AFTER EDIT        : MOVJ P015 
+CURR VALUE
+
+///INDEX 134
+DATE              :2023/08/22 14:40:47
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0011
+AFTER EDIT        :*LOOP 
+CURR VALUE
+
+///INDEX 135
+DATE              :2023/08/22 14:40:31
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0010
+AFTER EDIT        : DOUT OT#(4) OFF 
+CURR VALUE
+
+///INDEX 136
+DATE              :2023/08/22 14:40:28
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0009
+AFTER EDIT        : DOUT OT#(3) OFF 
+CURR VALUE
+
+///INDEX 137
+DATE              :2023/08/22 14:39:58
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0008
+AFTER EDIT        : SET B002 1 
+CURR VALUE
+
+///INDEX 138
+DATE              :2023/08/22 14:39:24
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0007
+AFTER EDIT        : SUB P006 P005 
+CURR VALUE
+
+///INDEX 139
+DATE              :2023/08/22 14:39:06
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0006
+AFTER EDIT        : MUL P020 D001 
+CURR VALUE
+
+///INDEX 140
+DATE              :2023/08/22 14:38:46
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0005
+AFTER EDIT        : SUB D001 I001 
+CURR VALUE
+
+///INDEX 141
+DATE              :2023/08/22 14:38:27
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0004
+AFTER EDIT        : SET D001 I002 
+CURR VALUE
+
+///INDEX 142
+DATE              :2023/08/22 14:37:46
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0003
+DELETED LINE      : SET P020 P018 
+
+
+///INDEX 143
+DATE              :2023/08/22 14:37:42
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0004
+AFTER EDIT        : SET P020 P019 
+CURR VALUE
+
+///INDEX 144
+DATE              :2023/08/22 14:37:38
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0003
+AFTER EDIT        : SET P020 P018 
+CURR VALUE
+
+///INDEX 145
+DATE              :2023/08/22 14:37:25
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0002
+AFTER EDIT        : SET P021 P018 
+CURR VALUE
+
+///INDEX 146
+DATE              :2023/08/22 14:37:09
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R2_MAIN
+LINE              :0001
+AFTER EDIT        : SET I001 0 
+CURR VALUE
+
+///INDEX 147
+DATE              :2023/08/22 13:35:43
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0023
+AFTER EDIT        : SET B000 1 
+CURR VALUE
+
+///INDEX 148
+DATE              :2023/08/22 13:35:17
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0021
+AFTER EDIT        : JUMP *LOOP 
+CURR VALUE
+
+///INDEX 149
+DATE              :2023/08/22 13:34:53
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0020
+AFTER EDIT        : IF( I000<I003 ) THEN 
+CURR VALUE
+
+///INDEX 150
+DATE              :2023/08/22 13:34:21
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+START LINE        :0019
+END LINE          :0019
+
+///INDEX 151
+DATE              :2023/08/22 13:33:53
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0018
+AFTER EDIT        : INC I000 
+CURR VALUE
+
+///INDEX 152
+DATE              :2023/08/22 13:33:38
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0017
+AFTER EDIT        : WAIT IN#(1)=OFF 
+CURR VALUE
+
+///INDEX 153
+DATE              :2023/08/22 13:33:19
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0016
+AFTER EDIT        : MOVL P002 PL=0 
+CURR VALUE
+
+///INDEX 154
+DATE              :2023/08/22 13:33:16
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+START LINE        :0016
+END LINE          :0016
+
+///INDEX 155
+DATE              :2023/08/22 13:32:57
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0015
+AFTER EDIT        : DOUT OT#(1) OFF 
+CURR VALUE
+
+///INDEX 156
+DATE              :2023/08/22 13:32:38
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0014
+AFTER EDIT        : MOVL P006 PL=0 
+CURR VALUE
+
+///INDEX 157
+DATE              :2023/08/22 13:32:29
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0013
+AFTER EDIT        : MOVJ P002 PL=0 
+CURR VALUE
+
+///INDEX 158
+DATE              :2023/08/22 13:32:06
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+START LINE        :0013
+END LINE          :0013
+
+///INDEX 159
+DATE              :2023/08/22 13:31:45
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0012
+AFTER EDIT        : ADD P006 P004 
+CURR VALUE
+
+///INDEX 160
+DATE              :2023/08/22 13:31:09
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0011
+AFTER EDIT        : WAIT IN#(1)=ON 
+CURR VALUE
+
+///INDEX 161
+DATE              :2023/08/22 13:30:25
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0009
+AFTER EDIT        : TSYNC 3 
+CURR VALUE
+
+///INDEX 162
+DATE              :2023/08/22 13:30:13
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+START LINE        :0009
+END LINE          :0009
+
+///INDEX 163
+DATE              :2023/08/22 13:29:32
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0008
+AFTER EDIT        : WAIT OT#(4)=OFF 
+CURR VALUE
+
+///INDEX 164
+DATE              :2023/08/22 13:28:24
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0007
+AFTER EDIT        : DOUT OT#(1) ON 
+CURR VALUE
+
+///INDEX 165
+DATE              :2023/08/22 13:27:33
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0006
+AFTER EDIT        : MOVJ P014 PL=0 
+CURR VALUE
+
+///INDEX 166
+DATE              :2023/08/22 13:27:28
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0005
+AFTER EDIT        : TSYNC 2 
+CURR VALUE
+
+///INDEX 167
+DATE              :2023/08/22 13:27:21
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+START LINE        :0005
+END LINE          :0005
+
+///INDEX 168
+DATE              :2023/08/22 13:26:50
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0003
+AFTER EDIT        : TSYNC 1 
+CURR VALUE
+
+///INDEX 169
+DATE              :2023/08/22 13:17:14
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0003
+AFTER EDIT        : MOVJ P013 PL=0 
+CURR VALUE
+
+///INDEX 170
+DATE              :2023/08/22 13:17:04
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0003
+AFTER EDIT        : MOVJ P013 
+CURR VALUE
+
+///INDEX 171
+DATE              :2023/08/22 13:16:22
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0002
+AFTER EDIT        :*LOOP 
+CURR VALUE
+
+///INDEX 172
+DATE              :2023/08/22 13:16:09
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+LINE              :0001
+AFTER EDIT        : MOVJ P012 
+CURR VALUE
+
+///INDEX 173
+DATE              :2023/08/22 13:16:06
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_RESET
+START LINE        :0001
+END LINE          :0001
+
+///INDEX 174
+DATE              :2023/08/22 13:15:42
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0011
+END LINE          :0011
+
+///INDEX 175
+DATE              :2023/08/22 13:15:20
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0010
+AFTER EDIT        : WAIT IN#(2)=OFF 
+CURR VALUE
+
+///INDEX 176
+DATE              :2023/08/22 13:13:58
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0008
+AFTER EDIT        : TSYNC 3 
+CURR VALUE
+
+///INDEX 177
+DATE              :2023/08/22 13:13:55
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0008
+END LINE          :0008
+
+///INDEX 178
+DATE              :2023/08/22 13:13:39
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0004
+AFTER EDIT        : TSYNC 2 
+CURR VALUE
+
+///INDEX 179
+DATE              :2023/08/22 13:13:36
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0004
+END LINE          :0004
+
+///INDEX 180
+DATE              :2023/08/22 13:13:26
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0003
+AFTER EDIT        : MOVJ P010 PL=0 
+CURR VALUE
+
+///INDEX 181
+DATE              :2023/08/22 13:13:15
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0007
+AFTER EDIT        : MOVL P010 PL=0 
+CURR VALUE
+
+///INDEX 182
+DATE              :2023/08/22 13:13:07
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0007
+AFTER EDIT        : MOVJ P010 PL=0 
+CURR VALUE
+
+///INDEX 183
+DATE              :2023/08/22 13:12:54
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0004
+AFTER EDIT        : MOVL P011 PL=0 
+CURR VALUE
+
+///INDEX 184
+DATE              :2023/08/22 13:12:29
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0007
+END LINE          :0007
+
+///INDEX 185
+DATE              :2023/08/22 13:11:42
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0006
+AFTER EDIT        : DOUT OT#(2) OFF 
+CURR VALUE
+
+///INDEX 186
+DATE              :2023/08/22 13:11:23
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0005
+AFTER EDIT        : WAIT OT#(3)=ON 
+CURR VALUE
+
+///INDEX 187
+DATE              :2023/08/22 13:10:51
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0004
+AFTER EDIT        : MOVJ P011 
+CURR VALUE
+
+///INDEX 188
+DATE              :2023/08/22 13:10:47
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0003
+AFTER EDIT        : MOVJ P010 
+CURR VALUE
+
+///INDEX 189
+DATE              :2023/08/22 13:10:44
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0001
+AFTER EDIT        : MOVJ P009 
+CURR VALUE
+
+///INDEX 190
+DATE              :2023/08/22 13:10:27
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0003
+AFTER EDIT        : MOVJ P011 
+CURR VALUE
+
+///INDEX 191
+DATE              :2023/08/22 13:10:23
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0001
+AFTER EDIT        : MOVJ P010 
+CURR VALUE
+
+///INDEX 192
+DATE              :2023/08/22 13:10:11
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0001
+AFTER EDIT        : MOVJ P012 
+CURR VALUE
+
+///INDEX 193
+DATE              :2023/08/22 13:09:50
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0002
+AFTER EDIT        : TSYNC 1 
+CURR VALUE
+
+///INDEX 194
+DATE              :2023/08/22 13:08:22
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0003
+END LINE          :0003
+
+///INDEX 195
+DATE              :2023/08/22 13:08:19
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0002
+END LINE          :0002
+
+///INDEX 196
+DATE              :2023/08/22 13:07:49
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0001
+AFTER EDIT        : MOVJ P009 
+CURR VALUE
+
+///INDEX 197
+DATE              :2023/08/22 13:07:42
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+LINE              :0001
+AFTER EDIT        : MOVL P009 
+CURR VALUE
+
+///INDEX 198
+DATE              :2023/08/22 13:07:20
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_HAND-OFF
+START LINE        :0001
+END LINE          :0001
+
+///INDEX 199
+DATE              :2023/08/22 12:41:58
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+START LINE        :0021
+END LINE          :0021
+
+///INDEX 200
+DATE              :2023/08/22 12:41:44
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0020
+AFTER EDIT        :*NO_PLACE 
+CURR VALUE
+
+///INDEX 201
+DATE              :2023/08/22 12:41:28
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0020
+AFTER EDIT        :*NO_PRESS 
+CURR VALUE
+
+///INDEX 202
+DATE              :2023/08/22 12:41:07
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0019
+AFTER EDIT        :'TODO: TRIGGER PRESS 
+CURR VALUE
+
+///INDEX 203
+DATE              :2023/08/22 12:40:39
+EVENT             :JOB EDIT(MOD)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0018
+AFTER EDIT        : MOVL P007 
+CURR VALUE
+
+///INDEX 204
+DATE              :2023/08/22 12:40:31
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+START LINE        :0018
+END LINE          :0018
+
+///INDEX 205
+DATE              :2023/08/22 12:40:21
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0017
+AFTER EDIT        : WAIT IN#(1)=OFF 
+CURR VALUE
+
+///INDEX 206
+DATE              :2023/08/22 12:39:38
+EVENT             :JOB EDIT(PASTE)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+START LINE        :0016
+END LINE          :0016
+
+///INDEX 207
+DATE              :2023/08/22 12:39:10
+EVENT             :JOB EDIT(DEL)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0016
+DELETED LINE      : DOUT OT#(1) OFF 
+
+
+///INDEX 208
+DATE              :2023/08/22 12:39:07
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0016
+AFTER EDIT        : DOUT OT#(1) OFF 
+CURR VALUE
+
+///INDEX 209
+DATE              :2023/08/22 12:39:06
+EVENT             :JOB EDIT(INS)
+LOGIN NAME        :
+TASK              :#00
+FILE NAME         :R1_PRESS
+LINE              :0015
+AFTER EDIT        : DOUT OT#(1) OFF 
+CURR VALUE
+
+///INDEX 210
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 211
+DATE              :2023/08/22 15:34:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_PRESS
+
+///INDEX 212
+DATE              :2023/08/22 15:34:34
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 213
+DATE              :2023/08/22 15:29:40
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_PRESS
+
+///INDEX 214
+DATE              :2023/08/22 15:27:15
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 215
+DATE              :2023/08/22 15:17:16
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_PRESS
+
+///INDEX 216
+DATE              :2023/08/22 14:57:18
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_HAND-OFF
+
+///INDEX 217
+DATE              :2023/08/22 14:56:07
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_MAIN
+
+///INDEX 218
+DATE              :2023/08/22 14:55:47
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R2_RESET
+
+///INDEX 219
+DATE              :2023/08/22 14:36:38
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_MAIN
+
+///INDEX 220
+DATE              :2023/08/22 14:32:22
+EVENT             :CHANGE SECURITY MODE
+LOGIN NAME        :
+BEFORE MODE       :EDITING MODE
+AFTER MODE        :SAFETY MODE
+
+///INDEX 221
+DATE              :2023/08/22 14:30:24
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 222
+DATE              :2023/08/22 14:30:24
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 223
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 224
+DATE              :2023/08/22 13:25:48
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_RESET
+
+///INDEX 225
+DATE              :2023/08/22 13:25:41
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_HAND-OFF
+
+///INDEX 226
+DATE              :2023/08/22 13:23:20
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_HAND-OFF
+
+///INDEX 227
+DATE              :2023/08/22 13:16:00
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_RESET
+
+///INDEX 228
+DATE              :2023/08/22 13:07:13
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_HAND-OFF
+
+///INDEX 229
+DATE              :2023/08/22 12:54:42
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 230
+DATE              :2023/08/22 12:35:51
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 231
+DATE              :2023/08/22 12:34:48
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 232
+DATE              :2023/08/22 12:34:48
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 233
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 234
+DATE              :2023/08/22 12:24:06
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 235
+DATE              :2023/08/22 12:21:37
+EVENT             :CHANGE SECURITY MODE
+LOGIN NAME        :
+BEFORE MODE       :EDITING MODE
+AFTER MODE        :SAFETY MODE
+
+///INDEX 236
+DATE              :2023/08/22 12:17:14
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 237
+DATE              :2023/08/22 12:12:26
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 238
+DATE              :2023/08/22 12:12:26
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 239
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 240
+DATE              :2023/08/22 12:05:37
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 241
+DATE              :2023/08/22 12:05:37
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 242
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 243
+DATE              :2023/08/22 11:58:40
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 244
+DATE              :2023/08/22 11:58:36
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_TABLE
+
+///INDEX 245
+DATE              :2023/08/22 11:42:48
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_TABLE
+
+///INDEX 246
+DATE              :2023/08/22 11:26:29
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 247
+DATE              :2023/08/22 11:25:56
+EVENT             :SAFETY FENCE OPEN
+LOGIN NAME        :
+
+///INDEX 248
+DATE              :2023/08/22 11:05:43
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 249
+DATE              :2023/08/22 11:02:18
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_TABLE
+
+///INDEX 250
+DATE              :2023/08/22 10:51:04
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_MAIN
+
+///INDEX 251
+DATE              :2023/08/22 10:36:44
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :MAIN
+
+///INDEX 252
+DATE              :2023/08/22 10:36:40
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_TABLE
+
+///INDEX 253
+DATE              :2023/08/22 10:36:31
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_HAND-OFF
+
+///INDEX 254
+DATE              :2023/08/22 10:36:28
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_HAND-OFF
+
+///INDEX 255
+DATE              :2023/08/22 10:36:26
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R2_PRESS
+
+///INDEX 256
+DATE              :2023/08/22 10:36:23
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :R1_PRESS
+
+///INDEX 257
+DATE              :2023/08/22 10:36:14
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R2_HAND-OFF
+
+///INDEX 258
+DATE              :2023/08/22 10:35:43
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R2_PRESS
+
+///INDEX 259
+DATE              :2023/08/22 10:35:21
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R1_RESET
+
+///INDEX 260
+DATE              :2023/08/22 10:35:04
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R1_HAND-OFF
+
+///INDEX 261
+DATE              :2023/08/22 10:34:43
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R1_PRESS
+
+///INDEX 262
+DATE              :2023/08/22 10:34:23
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R2_TABLE
+
+///INDEX 263
+DATE              :2023/08/22 10:31:27
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R1_TABLE
+
+///INDEX 264
+DATE              :2023/08/22 10:20:23
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :MAIN
+
+///INDEX 265
+DATE              :2023/08/22 10:20:18
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R2_MAIN
+
+///INDEX 266
+DATE              :2023/08/22 10:19:57
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :R1_MAIN
+
+///INDEX 267
+DATE              :2023/08/22 10:19:39
+EVENT             :JOB CREATE
+LOGIN NAME        :
+JOB NAME          :MAIN
+
+///INDEX 268
+DATE              :2023/08/22 10:18:07
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :SHIP-R1
+
+///INDEX 269
+DATE              :2023/08/22 10:18:02
+EVENT             :JOB DELETE
+LOGIN NAME        :
+JOB NAME          :SHIP-R2
+
+///INDEX 270
+DATE              :2023/08/22 10:03:06
+EVENT             :CHANGE SECURITY MODE
+LOGIN NAME        :
+BEFORE MODE       :EDITING MODE
+AFTER MODE        :SAFETY MODE
+
+///INDEX 271
+DATE              :2023/08/22 09:58:58
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :SHIP-R2
+
+///INDEX 272
+DATE              :2023/08/22 09:56:47
+EVENT             :SELECT JOB
+LOGIN NAME        :
+TASK              :#00
+JOB NAME          :SHIP-R1
+
+///INDEX 273
+DATE              :2023/08/22 09:55:48
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 274
+DATE              :2023/08/22 09:55:48
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 275
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+///INDEX 276
+DATE              :2023/08/21 18:53:17
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 277
+DATE              :2023/08/21 18:53:17
+EVENT             :TEACH MODE
+LOGIN NAME        :
+
+///INDEX 278
+DATE              :2023/08/21 18:53:16
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 279
+DATE              :2023/08/21 18:53:15
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 280
+DATE              :2023/08/21 18:53:15
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 281
+DATE              :2023/08/21 18:53:14
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 282
+DATE              :2023/08/21 18:53:13
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 283
+DATE              :2023/08/21 18:53:13
+EVENT             :REMOTE MODE
+LOGIN NAME        :
+
+///INDEX 284
+DATE              :2023/08/21 18:53:11
+EVENT             :PLAY MODE
+LOGIN NAME        :
+
+///INDEX 285
+DATE              :2023/08/21 18:51:46
+EVENT             :SPEED OVERRIDE SETTING
+LOGIN NAME        :
+OVERRIDE STATUS   :INVALID
+SPEED RATIO       :100
+
+///INDEX 286
+DATE              :2023/08/21 18:51:46
+EVENT             :POWER ON
+LOGIN NAME        :
+
+///INDEX 287
+DATE              :2023/08/10 06:35:41
+EVENT             :POWER OFF
+LOGIN NAME        :
+
+

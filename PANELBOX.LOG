@@ -1,0 +1,253 @@
+/SYSTEM 8
+//DATE      : 2023/08/22 17:54:49
+//SYSTEM NO : YAS4.81.00A(JP/EN)-00
+//PARAM  NO : 4.27/4.27
+//APPLI     : GENERAL         ,GENERAL         
+//LANGUAGE  :  4.81-00-00, 4.81-00-00
+//REVISION
+ACP01    4.81.00,1.07-10
+AIF01   --------,16092200
+PP       3.00-00, 2.11-00, 1.14
+ASF01#0  2.26-00/ 2.13-00, 2.26-00/ 2.13-00, 2.00-00, 2.00-00,16122200,16122200
+ASF01#1  2.26-00/ 2.13-00, 2.26-00/ 2.13-00, 2.00-00, 2.00-00,16122200,16122200
+SDCA01#0 4.25-00/ 4.25-00, 1.13C00/ 1.13P00, 2.00-00, 1.01-00,19090800,05000000
+SDCA01#1 4.25-00/ 4.25-00, 1.13C00/ 1.13P00, 2.00-00, 1.01-00,19090800,05000000
+//ROBOT NAME
+R1 : 1-06VXH25-A0*(GP25)                          0011_1111
+R2 : 1-06VXH25-A0*(GP25)                          0011_1111
+//CONTROL POWER
+TOTAL : 2023/08/08 07:32,00014:04'41
+//SERVO POWER
+TOTAL : 2023/08/08 07:32,00000:54'36
+R1    : 2023/08/08 07:32,00000:54'32
+R2    : 2023/08/08 07:32,00000:54'32
+//PLAYBACK TIME
+TOTAL : 2023/08/08 07:32,00000:17'54
+R1    : 2023/08/08 07:32,00000:17'34
+R2    : 2023/08/08 07:32,00000:17'33
+//MOVING TIME
+TOTAL : 2023/08/08 07:32,00000:17'16
+R1    : 2023/08/08 07:32,00000:17'11
+R2    : 2023/08/08 07:32,00000:17'11
+//OPERATING TIME
+TOOL1 : 2023/08/08 07:32,00000:00'00
+//ENERGY TIME
+TOTAL : 2023/08/08 07:32,00000:00'00
+//CONTROLLER SETTING
+============================================================
+LANGUAGE
+
+------------------------------------------------------------
+LANGUAGE1           ENGLISH            
+LANGUAGE2           JAPANESE           
+============================================================
+CONTROL GROUP                                       
+                                                    
+------------------------------------------------------------
+CONNECT :                             DETAIL        
+R1      : 1-06VXH25-A0*                             
+B1      : NONE                        DETAIL        
+R2      : 1-06VXH25-A0*                             
+B2      : NONE                        DETAIL        
+R3      : NONE                                      
+S1      : NONE                        DETAIL        
+============================================================
+CONNECT(STO)                                        
+        -- AXIS --  -- BRK --   -- CV  --           
+    SV <123456789> <123456789> <123456789> ON_EN  OT
+------------------------------------------------------------
+R1 :#1 [123456---] [123456---] [111111---] ON_EN1 OT1   
+R2 :#2 [123456---] [123456---] [111111---] ON_EN1 OT1   
+============================================================
+APPLICATION
+
+------------------------------------------------------------
+APPLICATION                             
+  GENERAL + GENERAL                     
+ROBOT APPL OPTION        R1  R2                                                         
+  1 : GENERAL PURPOSE    *   *               
+  2 : GENERAL PURPOSE    *   *               
+CIO LADDER (STANDARD) 
+  GENERAL + GENERAL                     
+============================================================
+OPTION BOARD                                        
+STANDARD         #1 PCIe, #2 PCIe                   
+------------------------------------------------------------
+#0        NONE                                      
+#1        NONE                                      
+#2        NONE                                      
+============================================================
+IO MODULE
+ST#   DI   DO  AI  AO BOARD               
+------------------------------------------------------------
+ 00 0040 0040   -   - ASF01(AIO01 NPN)
+ 01    -    -   -   - NONE
+ 02    -    -   -   - NONE
+ 03    -    -   -   - NONE
+ 04    -    -   -   - NONE
+ 05    -    -   -   - NONE
+ 06    -    -   -   - NONE
+ 07    -    -   -   - NONE
+ 08    -    -   -   - NONE
+ 09    -    -   -   - NONE
+ 10    -    -   -   - NONE
+ 11    -    -   -   - NONE
+ 12    -    -   -   - NONE
+ 13    -    -   -   - NONE
+ 14    -    -   -   - NONE
+ 15 0072 0072   -   - Ethernet/IP CPU
+ 16    -    -   -   - NONE
+ 17    -    -   -   - NONE
+ 18    -    -   -   - NONE
+ 19    -    -   -   - NONE
+============================================================
+EXTERNAL IO SETUP                                   
+                                                    
+------------------------------------------------------------
+ALLOCATION MODE                  AUTO               
+EXTERNAL IO ALLOCATION           DETAIL             
+============================================================
+EXTERNAL IO ALLOCATION(INPUT)                       
+        ST#  CH  MAC ID  ADDR  BYTE  NAME           
+------------------------------------------------------------
+#20010    0   0       0     0     5  ASF01          
+#20060   15   0     254     0     1  Ethernet/IP CPU
+#20070   15   0       0     1     8  Ethernet/IP CPU
+============================================================
+EXTERNAL IO ALLOCATION(OUTPUT)                      
+        ST#  CH  MAC ID  ADDR  BYTE  NAME           
+------------------------------------------------------------
+#30010    0   0       0     0     5  ASF01          
+#30060   15   0     254     0     1  Ethernet/IP CPU
+#30070   15   0       0     1     8  Ethernet/IP CPU
+============================================================
+OPTION FUNCTION
+
+------------------------------------------------------------
+* 006 VISION FUNCTION                 NOT USED  
+* 007 ROBOT DETACHMENT                DETAIL    
+* 009 AXES DETACHMENT                 DETAIL    
+* 011 LAN INTERFACE SETTING           DETAIL    
+* 012 NETWORK FUNCTION SETTING        DETAIL    
+* 013 EtherNet/IP(CPU Board)          DETAIL    
+* 014 DAYLIGHT SAVING TIME            DETAIL    
+* 015 RELATIVE JOB                    USED      
+* 016 INTERRUPT JOB                   NOT USED  
+* 017 TCP                             NOT USED  
+* 018 MACRO INST.                     NOT USED  
+* 020 I/F PANEL                       USED      
+* 021 LADDER EDITOR                   USED      
+* 022 PLAY MODE ENABLE                NOT USED  
+* 023 MANUAL BRAKE RELEASE            USED      
+* 025 EXTERNAL REFERENCE POINT        NOT USED  
+* 026 PARALLEL START INSTRUCTION        7
+* 027 COORDINATED INSTRUCTION         USED      
+* 028 STATION ANGLE DISPLAY           NOT USED  
+* 030 LIMITS CUSTOMIZATION            DETAIL    
+* 032 TOOL NO. SWITCHING              USED      
+* 033 SI UNIT INDICATION              USED      
+* 034 DISPLAY IO NAME IN JOB          USED      
+* 036 EXTERNAL IO SETUP               DETAIL    
+* 037 VARIABLE ALLOCATION             DETAIL    
+* 046 MotoPlus FUNC.                  NOT USED  
+* 048 AUTOBACKUP(ACP01)               NOT USED  
+* 049 Functional safety               DETAIL    
+* 052 SERVO POWER INDIVIDUAL CONTROL  DETAIL    
+* 053 MotoFit                         NOT USED  
+* 054 MotoLogix                       DETAIL    
+* 055 SAFETY LOGICAL CIRCUIT SETTING  DETAIL    
+* 056 SAFETY I/O BOARD SETTING        DETAIL    
+* 057 POWER FORCE LIMITING            DETAIL    
+* 058 3DGRAPHICS                      USED      
+* 059 ENDLESS FUNCTION                DETAIL    
+* 060 Search function                 NOT USED  
+* 061 Pendant Oscilloscope function   USED      
+* 062 I/O OUTPUT CONTROL FUNCTION     NOT USED  
+* 063 TWIN SYNCHRONOUS FUNCTION       USED      
+* 064 THERMAL SPRAY SPEED FUNCTION    NOT USED  
+* 065 ARM INTERFERE CHECK FUNCTION    USED      
+* 066 CUBIC ARM INTERFERENCE CHK FUNC.NOT USED  
+* 067 HOVER WEAVING FUNCTION          NOT USED  
+* 068 SEARCH FUNCTION IN CONT MOTION  NOT USED  
+* 069 PASSWORD PROTECTION FUNCTION    NOT USED  
+* 070 ONLINE MANUAL FUNCTION          NOT USED  
+* 071 I/O JOG OPERATION FUNCTION      NOT USED  
+* 072 Cockpit                         NOT USED  
+* 073 MOTOMAN DRIVER                  NOT USED  
+* 074 ENCODER CONFIG FUNCTION         DETAIL    
+* 075 TEACH POINT ADJUST FUNCTION     NOT USED  
+* 077 SmartPendant                    NOT USED  
+* 078 OT SIGNAL MULTI SETTING         NOT USED  
+* 081 CURRENT POSITION OUTPUT(Modbus) NOT USED  
+* 083 MUTUAL WAIT FUNCTION            DETAIL    
+* 086 MODE SWITCHING BY CONTROLLER    NOT USED  
+* 087 YERCProfile                     DETAIL    
+* 088 ROBOT POS. TRANS FUNC.(TRUMPF)  NOT USED  
+* 089 DiMPLe FUNCTION                 NOT USED  
+* 092 MODBUS/TCP(CPU Board)           DETAIL    
+* 093 NAT RULE CONFIGURATION          DETAIL    
+* 095 CONTROLLER FOR NRTL             NOT USED  
+============================================================
+CMOS MEMORY
+
+------------------------------------------------------------
+  USED SIZE           2 MB               
+  MOUNTED SIZE        2 MB               
+============================================================
+------------------------------------------------------------
+FILE CREATE DATE             2023/01/26 14:55:10 EDITING
+CMOS.BIN LOADED              ----/--/-- --:--:--
+============================================================
+CHANGE TRACKING LIST         DATE
+  INITIALIZE                 2023/08/08 07:32:42 YASKAWA
+  LANGUAGE                   ----/--/-- --:--:--
+  CONTROL GROUP              ----/--/-- --:--:--
+  APPLICATION                ----/--/-- --:--:--
+  OPTION BOARD               ----/--/-- --:--:--
+  IO MODULE                  2023/08/08 07:46:20 YASKAWA
+  CMOS MEMORY                ----/--/-- --:--:--
+  DATE/TIME                  2023/08/08 07:32:00 YASKAWA
+  OPTION FUNCTION            2023/08/08 10:07:40 YASKAWA
+============================================================
+INITIALIZED FILES
+  JOB                        2023/08/08 07:37:37 YASKAWA
+  FILE/GENERAL DATA          2023/08/08 08:37:46 YASKAWA
+  PARAMETER                  2023/08/08 10:07:33 YASKAWA
+  I/O DATA                   ----/--/-- --:--:--
+  SYSTEM DATA                ----/--/-- --:--:--
+  USER DEFINE                ----/--/-- --:--:--
+============================================================
+INSPECTION AND TEST RECORD   DATE
+Rseigi2_HE1403276_1_ANSI.psc 2023/01/26 14:57:17 YASKAWA
+860641-1-1.psc               2023/08/08 07:40:37 YASKAWA
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+                             ----/--/-- --:--:--
+============================================================
+CHANGE TRACKING PARAMETER    DATE
+  AMCxG                      ----/--/-- --:--:--
+  AxP                        ----/--/-- --:--:--
+  CIO                        ----/--/-- --:--:--
+  FD                         ----/--/-- --:--:--
+  FMSxB                      ----/--/-- --:--:--
+  MFxG                       ----/--/-- --:--:--
+  RCD                        ----/--/-- --:--:--
+  RCxG                       ----/--/-- --:--:--
+  RExG                       ----/--/-- --:--:--
+  ROxG                       ----/--/-- --:--:--
+  RS                         ----/--/-- --:--:--
+  SxE                        ----/--/-- --:--:--
+  S1CxG                      ----/--/-- --:--:--
+  S2C                        ----/--/-- --:--:--
+  S3C                        ----/--/-- --:--:--
+  S4C                        ----/--/-- --:--:--
+  S1D                        ----/--/-- --:--:--
+  S2D                        2023/08/08 07:47:27 YASKAWA
+  S3D                        ----/--/-- --:--:--
+  S4D                        ----/--/-- --:--:--
+  SVxG                       ----/--/-- --:--:--
+  SVCxB                      ----/--/-- --:--:--
+  SVD                        ----/--/-- --:--:--
+  SVMxG                      ----/--/-- --:--:--
+  SVPxG                      ----/--/-- --:--:--
+  SVSxB                      ----/--/-- --:--:--
